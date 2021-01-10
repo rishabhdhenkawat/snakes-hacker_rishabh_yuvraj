@@ -1,4 +1,4 @@
-# Language Learning Virtual Agent
+# Digital Human For Anti Depression with Verbal Games
 
 *AWS Sumerian based virtual agent for language learning using AIML dialogue system.*
 
