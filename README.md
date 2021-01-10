@@ -1,7 +1,6 @@
 # Digital Human For Anti Depression with Verbal Games
 
-*AWS Sumerian based virtual agent for language learning using AIML dialogue system.*
-
+Must watch link :https://youtu.be/kGU-k4RVA2w
 ---
 We have made a digital human to make the life of people easy to deal with bad times, even when they are alone. We have made an AI to which will talk to you and help to deal with the mood swings and many more mental issues with the use of a digital human. Even u can play verbal games with this digital human. We tried our best at the weekend to make this society a better place.
 
