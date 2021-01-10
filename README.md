@@ -3,6 +3,8 @@
 *AWS Sumerian based virtual agent for language learning using AIML dialogue system.*
 
 ---
+We have made a digital human to make the life of people easy to deal with bad times, even when they are alone. We have made an AI to which will talk to you and help to deal with the mood swings and many more mental issues with the use of a digital human. Even u can play verbal games with this digital human. We tried our best at the weekend to make this society a better place.
+
 This effort addresses an automated device for detecting depression from acoustic features in speech. The tool is aimed at lowering the barrier of entry in seeking help for potential mental illness and supporting medical professionals' diagnoses.
 
 Early detection and treatment of depression is essential in promoting remission, preventing relapse, and reducing the emotional burden of the disease. Current diagnoses are primarily subjective, inconsistent across professionals, and expensive for the individual who may be in dire need of help. Additionally, early signs of depression are difficult to detect and quantify. These early signs have a promising potential to be quantified by machine learning algorithms that could be implemented in a wearable artificial intelligence (AI) or home device.
